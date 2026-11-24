@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Mananiyaa! 👋
 
-<!--
-**mananiyaa-24/mananiyaa-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an enthusiastic learner exploring the world of technology, programming, and innovation. Currently pursuing Artificial Intelligence and Data Science, I'm interested in understanding how technology can solve real-world problems and create meaningful solutions.
+
+💻 **About Me**
+- 🌱 Currently learning Python, HTML, CSS and Web Development.
+- 🤖 Interested in Artificial Intelligence and Data Science.
+- 🧩 Enjoy exploring new technologies and solving problems.
+- 🎹 Passionate about music and creativity.
+- 🚀 Building my programming knowledge one step at a time.
+
+🛠️ **Technologies I'm Learning**
+- Python
+- HTML
+- CSS
+
+🎯 **My Goals**
+- Strengthen my programming fundamentals.
+- Explore AI and Machine Learning.
+- Build practical projects.
+- Continuously learn and improve my technical skills.
+
+✨ *Learning, creating and growing every day!*
+
+Thanks for visiting my profile!
